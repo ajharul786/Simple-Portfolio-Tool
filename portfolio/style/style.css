@@ -1,0 +1,56 @@
+/* CSS Document */
+
+*{
+padding:0%;
+margin:0%
+}
+
+ .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+  .carousel-inner img {
+      width: 100%;
+      margin: auto;
+      min-height:200px;
+  }
+
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; 
+    }
+  }
+
+
+td{ color:#000000;
+}
+
+p,ul{
+margin-left:20px;}
+.header{
+width:100%;
+height:130px;
+/* background-color:#663300; */
+color:#33FF66;
+text-align:center;
+}
+
+
+
+div.forms {
+    border-radius: 5px;
+    background-color:#CC9900;
+    padding: 20px;
+	width:60%;
+	float:center;
+	margin-bottom:30px;
+}
+
+.footerdiv{
+height:50px;
+background-color:#FCC440;
+color:black;
+text-align:center;
+margin-top:30px;
+}
